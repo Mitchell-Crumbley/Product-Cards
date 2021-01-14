@@ -1,1 +1,3 @@
-console.log("Product Cards");
+
+console.log("Bidet Information");
+
