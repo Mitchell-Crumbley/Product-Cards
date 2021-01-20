@@ -1,3 +1,3 @@
 
-console.log("Bidet Information");
+console.log("CONNECTED")
 
